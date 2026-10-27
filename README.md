@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alpine Bank is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.alpinebank.com/
+Alpine Bank is a Colorado‑based community‑focused financial institution offering personal and business banking services, including checking, savings, loans, mortgages, and digital banking. The bank emphasizes local engagement, transparent fees, and a range of online tools for customers.
+
+**Areas:** Company · Banking · Financial Services · Colorado · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.alpinebank.com/)
+- [Support](https://www.alpinebank.com/resources/support)
+- [Blog](https://blog.alpinebank.com/)
+- [Terms of service](https://www.alpinebank.com/terms-of-use.html)
+- [Privacy policy](https://www.alpinebank.com/privacy-policy.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/alpine-bank/](https://apis.io/providers/alpine-bank/).
